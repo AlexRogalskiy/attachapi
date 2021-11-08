@@ -10,7 +10,7 @@
     </parent>
     <artifactId>attachagent</artifactId>
     <properties>
-        <kotlin.version>1.2.50</kotlin.version>
+        <kotlin.version>1.5.31</kotlin.version>
     </properties>
     <build>
         <plugins>
